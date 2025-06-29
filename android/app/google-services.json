@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167661423473",
+    "project_id": "voluncheers-108ca",
+    "storage_bucket": "voluncheers-108ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167661423473:android:a44d6b3df5c138ff4004d0",
+        "android_client_info": {
+          "package_name": "com.example.voluncheers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMS5L5oUxL120GupeNnVLVvPh0fh5Jr4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
